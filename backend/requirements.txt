@@ -1,0 +1,14 @@
+httpx
+pydantic
+pytest
+python-dotenv
+alpaca-trade-api
+respx
+pytest-asyncio
+pydantic-settings
+black
+flake8
+yfinance
+pandas-ta
+fastapi
+uvicorn
